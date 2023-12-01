@@ -1,0 +1,18 @@
+
+/* estilos sesion 1 */
+ .contenedorFormulario{
+    background-color: aqu;
+    height: 600px;
+   
+} 
+.contenedorFormulario .row{
+    width: 50%;
+    border: 1px solid rgb(194, 183, 183);
+    border-radius: 20px;
+    padding: 20px;
+}
+
+.btnSubmit{
+    width: 50% !important;
+}
+

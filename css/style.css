@@ -1,0 +1,47 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+/* estilos header y nav */
+.img_logo{
+    width: 90px;
+    height: 90px;
+}
+
+/* estilos sesion 1 */
+.contenedorCaru{
+    width: 100%;
+    height: 700px;
+}
+.contenedorCaru img{
+    width: 100%;
+    height: 700px;
+}
+/* estilos sesion 2 */
+.contenedorsesion2 img{
+    width: 100%;
+    height: 300px;
+    border-radius: 15px;
+}
+/* estilos sesion 3 */
+.con3{
+    height:700px !important;
+    
+    
+}
+.contenedorSesion3{
+    height: 500px;
+}
+.contenedorSesion3 img{
+    width: 100%;
+    height: 300px;
+}
+/* estilos foooter */
+.footer{
+    height: 100px;
+    /* background-color: black; */
+}
+.footer img{
+    width: 90px;
+    height: 80px;
+}
